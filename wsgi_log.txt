@@ -1,0 +1,3 @@
+wsgi.py 執行成功
+Python 可執行檔：C:\Apache24\bin\httpd.exe
+系統路徑：['C:\\pinweidjango', 'C:\\Python311\\python311.zip', 'C:\\Python311\\Lib', 'C:\\Python311\\DLLs', 'C:\\Python311', 'C:\\Python311\\Lib\\site-packages']
